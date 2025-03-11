@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bansalrachit19
+- 👋 Hi, I’m Rachit.
 - 👀 I’m interested in web development, software development, and hackathons.
 - 🌱 I’m currently learning optimization techniques for algorithms, enhancing my skills in React and MERN stack, and improving my resume.
 - 💞️  I’m looking to collaborate on web development projects, especially those involving innovative frontend designs or challenging problem-solving tasks.
